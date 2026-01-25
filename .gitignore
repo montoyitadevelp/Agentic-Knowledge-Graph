@@ -1,0 +1,14 @@
+# Envinroment variables
+.env
+
+# Python cache files
+__pycache__/
+__pycache__/*
+*.py[cod]
+
+# Virtual environment
+venv/
+.env/
+
+# Claude
+.CLAUDE.md
